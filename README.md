@@ -1,4 +1,3 @@
-# profile
 # 💫 About Me:
 🔭 I'm currently working on Web Development and Personal Projects<br><br>👯 I'm looking to collaborate on Open Source, Web Apps, and AI Projects<br><br>🤝 I'm looking for help with Machine Learning and Software Engineering<br><br>🌱 I'm currently learning Python, AI/ML, and Data Structures & Algorithms<br><br>💬 Ask me about C++, Competitive Programming, JavaScript, and Web Development<br><br>⚡ Fun fact: I enjoy solving problems as much as building things that people love to use!
 
