@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EA2E3&center=true&width=435&lines=+Competitive+Programmer;+Web+Developer;DSA+Enthusiast;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1EA2E3&center=true&width=435&lines=+Competitive+Programmer;+DSA+Enthusiast;AI+%26+ML+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
 <br/>
+</div>
 
----
 
 ```ts
 const indro = {
