@@ -5,9 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+eSports+Player+%F0%9F%8E%AE;Building+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Best+code+drops+after+midnight+%F0%9F%8C%99" />
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EA2E3&width=435&lines=+Competitive+Programmer;+Web+Developer;DSA+Enthusiast;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
 <br/>
 
 ---
