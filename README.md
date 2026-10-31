@@ -1,15 +1,92 @@
-# 💫 About Me:
-🔭 I'm currently working on Web Development and Personal Projects<br><br>👯 I'm looking to collaborate on Open Source, Web Apps, and AI Projects<br><br>🤝 I'm looking for help with Machine Learning and Software Engineering<br><br>🌱 I'm currently learning Python, AI/ML, and Data Structures & Algorithms<br><br>💬 Ask me about C++, Competitive Programming, JavaScript, and Web Development<br><br>⚡ Fun fact: I enjoy solving problems as much as building things that people love to use!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Naimure%20Rahaman%20Emon&fontSize=40&fontColor=fff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20eSports%20Player&descAlignY=58&descSize=15"/>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/indro.101) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indro.101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indro101)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indro3311@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+eSports+Player+%F0%9F%8E%AE;Building+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Best+code+drops+after+midnight+%F0%9F%8C%99" />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=indro75&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=indro75&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=indro75&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+```ts
+const emon = {
+  name: "Indrojit Sana",
+  from: "Bangladesh 🇧🇩",
+  focus: "Full Stack Web Development",
+  passion: ["Writing Code", "AI enthusiast", "Building Automated Things"],
+  status: "Currently working with RAG & LLM",
+};
+```
+
+---
+
+## Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=3C873A)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=00599C)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a2e?style=flat-square&logo=bootstrap&logoColor=8511FA)
+![WordPress](https://img.shields.io/badge/WordPress-1a1a2e?style=flat-square&logo=wordpress&logoColor=21759B)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=ffffff)
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimurerahaman&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimurerahaman&theme=tokyonight" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=naimurerahaman&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=a78bfa&currStreakLabel=6366f1" width="55%"/>
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimurerahaman&bg_color=0d1117&color=6366f1&line=6366f1&point=a78bfa&area=true&area_color=6366f1&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://facebook.com/indro.101)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/indro.101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/indro.101)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:indro3311@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naimurerahaman&color=6366f1&style=flat-square&label=Profile+Views"/>
+  <br/><br/>
+  <sub>⭐ <a href="https://github.com/indro75">naimurerahaman</a> · built with intent, shipped with passion.</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</div>
