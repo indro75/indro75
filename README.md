@@ -14,18 +14,13 @@
 
 ```ts
 const indro = {
-  name: "Indrojit Sana",
-  from: "Bangladesh",
-  focus: ["LLM", "Full Stack Web Development"],
-  skills: ["C", "C++", "Python", "JavaScript"],
-  passion: [
-    "Competitive Programming",
-    "Problem Solving",
-    "AI & Machine Learning",
-    "Building Creative Projects",
-  ],
-  exploring: ["LLMs", "RAG", "AI-powered Applications"],
-  mindset: "Learn, Build, Improve, Repeat",
+  name      : "Indrojit Sana",
+  from      : "Bangladesh",
+  focus     : ["LLM", "Full Stack Web Development"],
+  skills    : ["C", "C++", "Python", "JavaScript"],
+  passion   : ["Competitive Programming","AI & Machine Learning"],
+  exploring : ["LLMs", "RAG", "AI-powered Applications"],
+  mindset   : "Learn, Build, Improve, Repeat",
 };
 ```
 
