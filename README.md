@@ -54,8 +54,15 @@ const indro = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indro75&theme=tokyonight" height="160"/>
 </div>
 
+
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=indro75&theme=sakura-x&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a></div>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=indro75&theme=sakura-x&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia%2FDhaka&locale=en&mode=daily"
+      alt="GitHub Streak Stats"
+    />
+  </a>
+</div>
 
 ---
 
