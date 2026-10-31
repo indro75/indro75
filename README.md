@@ -13,12 +13,19 @@
 ---
 
 ```ts
-const emon = {
+const indro = {
   name: "Indrojit Sana",
-  from: "Bangladesh 🇧🇩",
-  focus: "Full Stack Web Development",
-  passion: ["Writing Code", "AI enthusiast", "Building Automated Things"],
-  status: "Currently working with RAG & LLM",
+  from: "Bangladesh",
+  focus: ["LLM", "Full Stack Web Development"],
+  skills: ["C", "C++", "Python", "JavaScript"],
+  passion: [
+    "Competitive Programming",
+    "Problem Solving",
+    "AI & Machine Learning",
+    "Building Creative Projects",
+  ],
+  exploring: ["LLMs", "RAG", "AI-powered Applications"],
+  mindset: "Learn, Build, Improve, Repeat",
 };
 ```
 
