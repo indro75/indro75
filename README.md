@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1EA2E3&center=true&width=435&lines=+Competitive+Programmer;+DSA+Enthusiast;AI+%26+ML+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Competitive+Programmer%F0%9F%8F%85;Full-Stack+Developer%F0%9F%9B%A0%EF%B8%8F;Machine+Learning+%F0%9F%A7%A0;Model+Architect+%F0%9F%9A%80" alt="Typing SVG" /></a>
 <br/>
 </div>
 
@@ -19,7 +19,7 @@ const indro = {
   passion   : ["Competitive Programming","AI & Machine Learning"],
   exploring : ["LLMs", "RAG", "AI-powered Applications"],
   mindset   : "Learn, Build, Improve, Repeat",
-};
+  };
 ```
 
 ---
