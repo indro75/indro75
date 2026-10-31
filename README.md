@@ -50,12 +50,20 @@ const emon = {
 ## Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimurerahaman&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimurerahaman&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=indro75&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indro75&theme=tokyonight" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=naimurerahaman&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=a78bfa&currStreakLabel=6366f1" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=indro75&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=a78bfa&currStreakLabel=6366f1" width="55%"/>
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indro75&bg_color=0d1117&color=6366f1&line=6366f1&point=a78bfa&area=true&area_color=6366f1&hide_border=true" width="95%"/>
 </div>
 
 ---
