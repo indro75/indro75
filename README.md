@@ -55,8 +55,7 @@ const indro = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=indro75&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=a78bfa&currStreakLabel=6366f1" width="55%"/>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=indro75&theme=sakura-x&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a></div>
 
 ---
 
