@@ -82,7 +82,7 @@ const indro = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naimurerahaman&color=6366f1&style=flat-square&label=Profile+Views"/>
   <br/><br/>
-  <sub>⭐ <a href="https://github.com/indro75">indro75</a> · built with intent, shipped with passion.</sub>
+  <sub>⭐ <a href="https://github.com/indro75">indro75</a></sub>
 </div>
 
 <div align="center">
